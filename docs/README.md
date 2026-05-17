@@ -18,3 +18,4 @@ Quality assurance is treated as part of everyday delivery rather than a final ch
 - `octoacme-release-and-deployment.md`
 - `octoacme-retrospective-and-continuous-improvement.md`
 - `octoacme-roles-and-personas.md`
+- `octoacme-role-engagement-checklist.md`
